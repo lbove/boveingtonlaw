@@ -1,10 +1,8 @@
 ---
-layout: home
-# title: Welcome
-# permalink: /welcome/
+layout: page
+title: Welcome to Boveington Law, LLC
+permalink: /index/
 ---
-
-# Welcome to Boveington Law, LLC
 
 I’d like to welcome you to my website. If you’re reading this, you likely have questions about a particular legal matter or you’re experiencing a legal issue and are seeking help. I’m practicing law precisely to help people just like you! Allow me to tell you a little about my background.
 
