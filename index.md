@@ -20,11 +20,11 @@ If you would like to discuss your case, please call me for a confidential consul
 
 # Learn more below about our key practice areas.
 
-## [Probate and Guardianships](../probate-court-matters)
+## [Probate and Guardianships](./probate-court-matters)
 We can help you decide whether probate is necessary for your loved one’s estate, prepare and file all the necessary paperwork, and so much more.
 
-## [Wills, Trusts and Estate Planning](../estate-planning)
+## [Wills, Trusts and Estate Planning](./estate-planning)
 It’s important to clearly state your instructions for final disposition of your property after you pass away. We’ll help you plan for your loved ones.
 
-## [Child Custody and Advocacy](../juvenile-court-matters)
+## [Child Custody and Advocacy](./juvenile-court-matters)
 Having children removed from parental custody is heart-wrenching, scary and confusing. We will work on your behalf to find the best solution for your family.
