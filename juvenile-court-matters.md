@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Juvenile Court Matters
-permalink: /about/
+permalink: /juvenile-court-matters/
 ---
 
 ## Juvenile Court Matters / Child Advocacy / Grandparent Rights
